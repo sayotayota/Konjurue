@@ -6,22 +6,22 @@
         220,
         255
     ],
-    "token": "",
-    "curseforgeAPIToken": "",
-    "joinMessage": "Welcome to the offical RayzrDev server, {user}!",
-    "statusFormat": "Members: {members} | Online: {online} | Please mention the @SharpBot Support role in #general-support for help with SharpBot.",
-    "ownerID": "112233445566778899",
-    "mainChannel": "112233445566778899",
-    "countingChannel": "112233445566778899",
+    "token": "NzIzODQxMzE0OTUyNzA4MTA3.XxLQBg.e_7D9vUVplc1gX-yQ8E-fi46O_k",
+    "curseforgeAPIToken": "9b652aff-4e39-453b-956f-cde08d5290cb",
+    "joinMessage": "Selamat datang di yagura support, {user}!",
+    "statusFormat": "Members: {members} | Online: {online} | K.help",
+    "ownerID": "686191771017150464",
+    "mainChannel": "720991775388336158",
+    "countingChannel": "734011149452050452",
     "communism": {
-        "channel": "112233445566778899",
+        "channel": "723422511299035166",
         "emojis": [
             "\uD83E\uDD54",
             "<:stalin:527988483948675082>"
         ]
     },
     "capitalism": {
-        "channel": "112233445566778899",
+        "channel": "723422511299035166",
         "emojis": [
             "\uD83D\uDCB5"
         ]
